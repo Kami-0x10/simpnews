@@ -2,7 +2,7 @@
 var RSS_URL = 'https://news.yahoo.co.jp/rss/categories/domestic.xml'; // 国内ニュースのRSS
 
 // CORSプロキシURL
-var CORS_PROXY = 'https://cors-0x10.online/';
+var CORS_PROXY = 'https://cors-0x10.online:4443/';
 
 // ニュースを表示する関数
 function displayNews(items) {
